@@ -1,4 +1,4 @@
-# Head First Design Patterns (2014 update)
+# Head First Design Patterns (TGM update)
 
 I have recently updated all the code for Head First Design Patterns to be compatible
 with Java 8. This new code accompanies an update for the book, released in July, 2014.
@@ -11,3 +11,4 @@ https://wiki.eclipse.org/JDT/Eclipse_Java_8_Support_For_Kepler
 
 Other links for the book are available on the book page at <a href="http://wickedlysmart.com/head-first-design-patterns/">wickedlysmart.com</a>.
 
+So long and thanks for all the fish.
